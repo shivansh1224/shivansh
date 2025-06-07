@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+shivansh 4406452
 
 [Link to another page](./another-page.html).
 
